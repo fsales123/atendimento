@@ -1,0 +1,24 @@
+
+  /**/
+  .flt{
+    width:200px;
+  }
+
+  .right{
+      float: right;
+  }
+
+  .pd-10{
+      padding-bottom: 10px;
+  }
+
+  /**/
+ .scroll{
+  width: auto;
+  height: 350px;
+  overflow: auto;
+ }
+
+ .ml3{
+   margin-left: 3px;
+ }
